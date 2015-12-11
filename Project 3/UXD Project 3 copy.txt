@@ -1,0 +1,93 @@
+features
+rent payments
+pay friends
+live video chat with banker 
+scan code for products and check cheaper stores and let you order
+in RTS buses
+when you're shopping online on a browser, you don't have to fill in all the details. RBC app will prompt you to fill in all the details.
+instead of paper receipt, you get your all payment receipts in the app
+The expenses every month will be displayed in a view according to the categories where the payments were made
+you can use this app for donations/charity purposes.
+gas pump payment 
+tap phones to pay
+
+comments on already existing app
+	selecting card every time
+	When you're in the app you don't have to select the payment card, set a default card and touch it to a terminal. 
+
+questions for users
+Have you used any type of mobile wallet app?
+If yes, then are you happy with the app? Why?
+What sort of payments do you make with the app?
+Do you face any issues? If yes, what?
+What other things would you like such an app to do?
+Would you like to pay your friends or your house rent or utilities bills with the app?
+Would you like to use this app for shopping or at restaurants?
+Would you like the app to fill your saved credit card details while shopping online after fingerprint or password authentication?
+
+questions for client
+From the user reviews on the app and figured that the deisgn of the app is not very user friendly. So, should existing app be extended or we can design it from the scratch?  
+Do we design the app based on the current infrastucture or can we assume that it can be extended to meet user needs?
+Is this supposed to be a wallet app like Google wallet or Apple Pay or can it include mobile banking features as well.
+
+
+Revised questions for client
+Do we need to work on extending the existing app or can we redesign it from the scratch? Like we have been talking to users and we have some very good ideas on how to make their experience better.
+What according to you is the scope of the app? 
+based on answer of the above question > Like is the app supposed to handle only mobile payments at shopping stores, restaurants etc or it can also have mobile banking features?  (like account transfers, account statement)
+A couple of users have pointed out that they would like to use the app with RTS buses which would mean installing new hardware in the buses, so can we assume that it is possible to do something like this or not?
+Should we incorporate only the important features or implement whatever we get from our user research?
+Who would be the contact person for future communication?
+Is it going to be via email or phone?
+
+Client answers
+redesign from scratch
+extremely large scope, RBC life marketplace, pay for things, financial activities is the most painful, auto pay 
+but no banking features like account transfers and all
+we can assume the hardware like nfc terminals in the buses
+only the important ones
+same person
+rbctcj@gmail.com
+
+Ask the client about which platform to design for: Android or iOS
+
+Scenario
+1 -> Brad and Lee  are waiting to catch the RTS bus. When the bus arrives Brad realizes that he isn't carrying his wallet so No CASH and No Gator ID. He is worried as he doesn’t want to walk back home to get his wallet . Lee offers to pay for him via his new mobile wallet app. Lee taps his phone on the payment terminal and pays for Brad. Brad promises to pay him back the next day. Lee informs him that the same app can be used to transfer the money back. Brad gets amused and downloads the app instantly .Lee pays back the money to Brad using the pay a friend feature of the app by just tapping phones.
+2 -> Katie is driving back home when her friend informs that a 50% off sale is going on in Forever 21 store. She drives to Oaks Mall rushes to the store and picks up everything that she can put her eyes on. She pays off for the items bought by simply using her mobile wallet .She is super happy as she had her Forever21 loyalty card saved in her mobile wallet too due to which she got an additional 5% discount . Yipppeeee!! But Oh No! She comes across a pair of awesome boots but then she needs a quick check on her expenses this month. She checkes her expenses on the app and realizes that she can still get the boots and not go broke so here she goes ..
+3 -> Sherry has a class in 30 minutes and today is the last day to pay the rent. She rushes to the leasing office to pay the rent thinking how tedious it is to go every month to the leasing office and pay the rent. In between all her cribbing and complaining she notices that the leasing office has installed new terminals for payment. All she needs to do is open RBC Wallet app on her phone, tap it on the payment terminal, enter the apartment number and the rent is paid. She discovers that the app has got an exciting new feature and she can easily set up recurring payments. She is extremely delighted and sets up 3rd as the date when the rent will be sent to the leasing office's account every month, automatically.
+4 -> 
+Daniel is planning to build a coffee table and finds all the tools available on the Home Depot website. Daniel finds he has forgotten his wallet in his car and he does not remember his credit card details. He recalls that he has setup his credit card details in the RBC app. He opens the Preferences and gives permission to the RBC app to process payments, goes back to the browser; sees the RBC life popup. He selects his credit card; authenticates and bammmmm..
+
+Wireframes
+1-> Pattern/Password/Fingerprint
+2-> Home screen with Pay and Cards tabs
+3-> Recipients
+4-> Loyalty cards
+5-> Settings
+6-> Expense manager
+
+User needs
+-> I do not want to carry all my cards or cash all the time
+-> It'd be great if I could store all my loyalty cards at one place
+-> Nice to see my spending habits and track my expenses
+-> What if I forget my wallet
+-> I want to be able to pay my friends easily
+-> I want to schedule automatic payments 
+-> I don't want to fill in my card details every time I shop online
+
+
+Katie is a bubbly, extrovert California girl who is the Head of Sales at Macy’s.  Retail therapy is the answer to all her problems and she often spends her weekends window shopping in malls across the city.
+
+Day in the life: As head of sales, Katie wears many hats each day, from running the operations of her department to sales development. When not working, she likes to follow the latest fashion trends through blogs and social networking websites hunting for discounts and giveaways. 
+
+Sherry is a Chemical Engineering sophomore, who has just moved in her new rented flat in Gainesville. She describes herself as lazy and sloth-like. She prefers using technology to simplify her daily life and often uses various apps on her phone to bank, chat, and do other mundane things.
+
+Day in the life: 
+
+Sherry usually misses her early morning classes and prefers watching the course lectures online. She spends her afternoon tutoring and ends the day with Netflix.
+
+Brad is an enthusiastic Computer Science student, who besides programming, loves hanging out with his best friend Lee. He is a curious and creative person and passionate about working in the field of Computer’s. He is often forgetful and relies on his mobile to go through his day.
+
+Day in the life: Brad leaves home early morning to attend his classes; has his lunch mostly with his friend Lee. His afternoon mostly goes into group meetings, studying or browsing the internet. His day finishes with working out, checking mail and finishing some tasks of the day.   
+
+ 

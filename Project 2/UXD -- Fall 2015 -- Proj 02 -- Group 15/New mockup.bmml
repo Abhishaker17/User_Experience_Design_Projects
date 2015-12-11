@@ -1,0 +1,164 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="535" measuredH="686" mockupW="499" mockupH="573">
+  <controls>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::iPhone" x="36" y="113" w="267" h="573" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="97" y="224" w="157" h="-1" measuredW="152" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <size>16</size>
+        <text>Search%20Parking%20Lots</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="71" y="248" w="75" h="-1" measuredW="72" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Destination</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::TextInput" x="145" y="245" w="125" h="-1" measuredW="86" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>XYZ%20Library</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::ButtonBar" x="63" y="285" w="217" h="30" measuredW="205" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>Name%2CDistance%2CEstimated%20Time%2CCapacity</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="71" y="339" w="223" h="-1" measuredW="200" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>545684</color>
+        <text>Lot%201%20%20%20%202.3km%20%20%20%20%20%2015%20mins%20%20%20%20%20%2046%25</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="71" y="360" w="223" h="-1" measuredW="206" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lot%202%20%20%20%203.2%20km%20%20%20%20%2020%20mins%20%20%20%20%20%2023%25</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="71" y="381" w="223" h="-1" measuredW="206" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lot%203%20%20%20%204.2km%20%20%20%20%20%2030%20mins%20%20%20%20%20%2039%25</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="71" y="315" w="83" h="-1" measuredW="53" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Sort%20by</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::ComboBox" x="145" y="315" w="125" h="-1" measuredW="83" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Distance</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Button" x="94" y="454" w="98" h="27" measuredW="92" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>545684</color>
+        <text>See%20on%20Map</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Icon" x="63" y="215" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>bars%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="71" y="535" w="75" h="-1" measuredW="33" measuredH="22" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Start</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::TextInput" x="153" y="533" w="125" h="-1" measuredW="85" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>My%20Location</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Icon" x="63" y="455" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>location-arrow%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Icon" x="71" y="490" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>car%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="153" y="496" w="111" h="-1" measuredW="53" measuredH="26" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <size>18</size>
+        <text>4.5km</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::CallOut" x="396" y="206" w="136" h="48" measuredW="229" measuredH="40" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1.%20The%20user%20enter%27s%20the%20destination.</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Arrow" x="264" y="224" w="138" h="44" measuredW="150" measuredH="100" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <stroke>solid</stroke>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Icon" x="146" y="247" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>search%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Arrow" x="270" y="307" w="105" h="17" measuredW="150" measuredH="100" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <stroke>solid</stroke>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::CallOut" x="375" y="260" w="160" h="135" measuredW="872" measuredH="39" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1.%20Based%20on%20entered%20location%20a%20list%20of%20parkign%20lots%20sorted%20on%20basis%20of%20distance%20is%20displayed.%20The%20distance%20shown%20is%20from%20parking%20lot%20to%20destination</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Arrow" x="192" y="433" w="169" h="38" measuredW="150" measuredH="100" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <stroke>solid</stroke>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::CallOut" x="355" y="400" w="160" h="81" measuredW="375" measuredH="39" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3.%20User%20can%20view%20information%20about%20parking%20lots%20on%20the%20map</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Arrow" x="238" y="506" w="110" h="13" measuredW="150" measuredH="100" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <stroke>solid</stroke>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::CallOut" x="340" y="490" w="140" h="82" measuredW="369" measuredH="43" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>4.%20Shows%20the%20total%20distance%20between%20start%20and%20destination</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
